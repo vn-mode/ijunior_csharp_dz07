@@ -1,0 +1,13 @@
+/Users/mac/Desktop/vn_mode_csharp_dz07/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz07.deps.json
+/Users/mac/Desktop/vn_mode_csharp_dz07/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz07.runtimeconfig.json
+/Users/mac/Desktop/vn_mode_csharp_dz07/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz07.runtimeconfig.dev.json
+/Users/mac/Desktop/vn_mode_csharp_dz07/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz07.dll
+/Users/mac/Desktop/vn_mode_csharp_dz07/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz07.pdb
+/Users/mac/Desktop/vn_mode_csharp_dz07/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz07.csproj.AssemblyReference.cache
+/Users/mac/Desktop/vn_mode_csharp_dz07/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/vn_mode_csharp_dz07/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz07.AssemblyInfoInputs.cache
+/Users/mac/Desktop/vn_mode_csharp_dz07/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz07.AssemblyInfo.cs
+/Users/mac/Desktop/vn_mode_csharp_dz07/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz07.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/vn_mode_csharp_dz07/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz07.dll
+/Users/mac/Desktop/vn_mode_csharp_dz07/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz07.pdb
+/Users/mac/Desktop/vn_mode_csharp_dz07/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz07.genruntimeconfig.cache
