@@ -8,17 +8,17 @@ namespace vn_mode_csharp_dz07
         {
             int countPeople;
             int waitingTime = 10;
-            int allTime;
+            int sumAllMinutes;
             int waitingHours;
             int waitingMinutes;
-            int oneHour = 60;
+            int minutesInHour = 60;
 
             Console.Write("Введите количество людей в очереди: ");
             countPeople = Convert.ToInt32(Console.ReadLine());
 
-            allTime = countPeople * waitingTime;
-            waitingHours = allTime / oneHour;
-            waitingMinutes = allTime % oneHour;
+            sumAllMinutes = countPeople * waitingTime;
+            waitingHours = sumAllMinutes / minutesInHour;
+            waitingMinutes = sumAllMinutes % minutesInHour;
 
             Console.WriteLine($"Вам придётся простоять в очереди {waitingHours} часов и {waitingMinutes} минут.");
         }
